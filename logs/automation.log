@@ -1,246 +1,123 @@
-2025-07-12 21:34:32.959 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test started
-2025-07-12 21:34:33.066 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on My Account link
-2025-07-12 21:34:33.719 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on Register link
-2025-07-12 21:34:33.815 [main] DEBUG chrome testCases.AccountRegistrationTest - First name entered: VQ
-2025-07-12 21:34:33.878 [main] DEBUG chrome testCases.AccountRegistrationTest - Last name entered:JcGpsFGgEa
-2025-07-12 21:34:33.944 [main] DEBUG chrome testCases.AccountRegistrationTest - Email entered: rTU@gmail.com
-2025-07-12 21:34:34.029 [main] DEBUG chrome testCases.AccountRegistrationTest - Telephone number entered: 6841077456
-2025-07-12 21:34:34.114 [main] DEBUG chrome testCases.AccountRegistrationTest - Password entered: lRT4jm
-2025-07-12 21:34:34.169 [main] DEBUG chrome testCases.AccountRegistrationTest - Confirm Password entered: lRT4jm 
-2025-07-12 21:34:34.238 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on NewsLetter radio button -Yes 
-2025-07-12 21:34:34.302 [main] DEBUG chrome testCases.AccountRegistrationTest - Checked on Privacy & Policy check box 
-2025-07-12 21:34:35.249 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on Register submit button
-2025-07-12 21:34:35.280 [main] DEBUG chrome testCases.AccountRegistrationTest - Post register success message retrieved
-2025-07-12 21:34:35.283 [main] INFO  chrome testCases.AccountRegistrationTest - Account registered successfully
-2025-07-12 21:34:35.283 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test completed
-2025-07-12 21:34:38.649 [main] INFO  chrome testCases.LoginAccountTest - Login test started
-2025-07-12 21:34:38.740 [main] DEBUG chrome testCases.LoginAccountTest - Clicked on My Account link
-2025-07-12 21:34:39.117 [main] DEBUG chrome testCases.LoginAccountTest - Clicked on Login link
-2025-07-12 21:34:39.214 [main] DEBUG chrome testCases.LoginAccountTest - Entered email
-2025-07-12 21:34:39.295 [main] DEBUG chrome testCases.LoginAccountTest - Entered password
-2025-07-12 21:34:39.357 [main] DEBUG chrome testCases.LoginAccountTest - Clicked on login button
-2025-07-12 21:34:40.426 [main] DEBUG chrome testCases.LoginAccountTest - My Account text is present
-2025-07-12 21:34:40.427 [main] INFO  chrome testCases.LoginAccountTest - Login test completed
-2025-07-12 21:34:44.060 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:34:44.066 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:34:44.068 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:34:44.620 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:34:44.621 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:34:44.622 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:34:44.642 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:34:44.643 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:34:44.644 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:34:44.671 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:34:44.672 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:34:44.673 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:34:44.694 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:34:44.695 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:34:44.696 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:34:44.714 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:34:44.715 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:34:44.715 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:34:44.731 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:34:44.733 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:34:44.734 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:34:44.753 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:34:44.755 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:34:44.756 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:34:44.775 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:34:44.776 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:34:44.777 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:34:44.792 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:34:44.793 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:34:44.794 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:34:44.813 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:34:44.814 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:34:44.815 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:34:44.832 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:34:44.833 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:34:44.834 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:34:44.851 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:34:44.852 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:34:44.853 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:34:44.871 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:34:44.872 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:34:44.872 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:34:44.884 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:34:44.885 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:34:44.885 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:34:44.899 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:34:44.900 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:34:44.900 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:34:44.912 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:34:44.913 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:34:44.913 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:34:44.926 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
-2025-07-12 21:34:44.986 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
-2025-07-12 21:34:45.339 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
-2025-07-12 21:34:45.440 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
-2025-07-12 21:34:45.503 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
-2025-07-12 21:34:46.280 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
-2025-07-12 21:34:46.306 [main] DEBUG chrome testCases.LoginDataDrivenTest - My Account text is present
-2025-07-12 21:34:46.307 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
-2025-07-12 21:34:46.753 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Logout link on Account page
-2025-07-12 21:34:47.096 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Logout link on Account page
-2025-07-12 21:34:47.096 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
-2025-07-12 21:34:47.097 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
-2025-07-12 21:34:47.145 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
-2025-07-12 21:34:47.485 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
-2025-07-12 21:34:47.547 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
-2025-07-12 21:34:47.595 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
-2025-07-12 21:34:47.647 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
-2025-07-12 21:34:57.667 [main] DEBUG chrome testCases.LoginDataDrivenTest - Exception while fetching My Account text
-2025-07-12 21:34:57.667 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
-2025-07-12 21:34:57.667 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
-2025-07-12 21:34:57.667 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
-2025-07-12 21:34:57.751 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
-2025-07-12 21:34:58.161 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
-2025-07-12 21:34:58.219 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
-2025-07-12 21:34:58.267 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
-2025-07-12 21:34:58.312 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
-2025-07-12 21:34:59.031 [main] DEBUG chrome testCases.LoginDataDrivenTest - My Account text is present
-2025-07-12 21:34:59.031 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
-2025-07-12 21:34:59.497 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Logout link on Account page
-2025-07-12 21:34:59.835 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Logout link on Account page
-2025-07-12 21:34:59.835 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
-2025-07-12 21:34:59.835 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
-2025-07-12 21:34:59.888 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
-2025-07-12 21:35:00.186 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
-2025-07-12 21:35:00.232 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
-2025-07-12 21:35:00.271 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
-2025-07-12 21:35:00.319 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
-2025-07-12 21:35:10.355 [main] DEBUG chrome testCases.LoginDataDrivenTest - Exception while fetching My Account text
-2025-07-12 21:35:10.355 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
-2025-07-12 21:35:10.355 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
-2025-07-12 21:35:10.355 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
-2025-07-12 21:35:10.439 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
-2025-07-12 21:35:10.827 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
-2025-07-12 21:35:10.886 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
-2025-07-12 21:35:10.922 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
-2025-07-12 21:35:11.589 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
-2025-07-12 21:35:21.659 [main] DEBUG chrome testCases.LoginDataDrivenTest - Exception while fetching My Account text
-2025-07-12 21:35:21.659 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
-2025-07-12 21:35:21.659 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
-2025-07-12 21:46:36.339 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test started
-2025-07-12 21:46:36.448 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on My Account link
-2025-07-12 21:46:36.939 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on Register link
-2025-07-12 21:46:37.040 [main] DEBUG chrome testCases.AccountRegistrationTest - First name entered: CYXCItgw
-2025-07-12 21:46:37.104 [main] DEBUG chrome testCases.AccountRegistrationTest - Last name entered:VXUVUcAAm
-2025-07-12 21:46:37.172 [main] DEBUG chrome testCases.AccountRegistrationTest - Email entered: FfMqqV@gmail.com
-2025-07-12 21:46:37.226 [main] DEBUG chrome testCases.AccountRegistrationTest - Telephone number entered: 6182337934
-2025-07-12 21:46:37.269 [main] DEBUG chrome testCases.AccountRegistrationTest - Password entered: Yg9FpkrmY
-2025-07-12 21:46:37.320 [main] DEBUG chrome testCases.AccountRegistrationTest - Confirm Password entered: Yg9FpkrmY 
-2025-07-12 21:46:37.377 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on NewsLetter radio button -Yes 
-2025-07-12 21:46:37.435 [main] DEBUG chrome testCases.AccountRegistrationTest - Checked on Privacy & Policy check box 
-2025-07-12 21:46:37.513 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on Register submit button
-2025-07-12 21:46:38.332 [main] DEBUG chrome testCases.AccountRegistrationTest - Post register success message retrieved
-2025-07-12 21:46:38.335 [main] INFO  chrome testCases.AccountRegistrationTest - Account registered successfully
-2025-07-12 21:46:38.335 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test completed
-2025-07-12 21:46:40.268 [main] INFO  chrome testCases.LoginAccountTest - Login test started
-2025-07-12 21:46:40.345 [main] DEBUG chrome testCases.LoginAccountTest - Clicked on My Account link
-2025-07-12 21:46:40.705 [main] DEBUG chrome testCases.LoginAccountTest - Clicked on Login link
-2025-07-12 21:46:40.794 [main] DEBUG chrome testCases.LoginAccountTest - Entered email
-2025-07-12 21:46:40.844 [main] DEBUG chrome testCases.LoginAccountTest - Entered password
-2025-07-12 21:46:40.899 [main] DEBUG chrome testCases.LoginAccountTest - Clicked on login button
-2025-07-12 21:46:41.747 [main] DEBUG chrome testCases.LoginAccountTest - My Account text is present
-2025-07-12 21:46:41.748 [main] INFO  chrome testCases.LoginAccountTest - Login test completed
-2025-07-12 21:46:46.329 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:46:46.344 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:46:46.347 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:46:46.838 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:46:46.840 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:46:46.842 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:46:46.863 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:46:46.863 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:46:46.863 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:46:46.895 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:46:46.895 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:46:46.895 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:46:46.910 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:46:46.910 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:46:46.910 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:46:46.926 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:46:46.926 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:46:46.926 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:46:46.942 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:46:46.942 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:46:46.942 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:46:46.959 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:46:46.959 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:46:46.959 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:46:46.978 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:46:46.978 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:46:46.978 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:46:46.990 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:46:46.990 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:46:46.990 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:46:47.006 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:46:47.006 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:46:47.006 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:46:47.021 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:46:47.021 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:46:47.022 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:46:47.022 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:46:47.022 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:46:47.022 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:46:47.044 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:46:47.044 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:46:47.044 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:46:47.065 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:46:47.065 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:46:47.065 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:46:47.094 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:46:47.095 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:46:47.096 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:46:47.117 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-07-12 21:46:47.118 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-07-12 21:46:47.120 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-2025-07-12 21:46:47.149 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
-2025-07-12 21:46:47.248 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
-2025-07-12 21:46:47.675 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
-2025-07-12 21:46:47.772 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
-2025-07-12 21:46:47.843 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
-2025-07-12 21:46:47.945 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
-2025-07-12 21:46:48.674 [main] DEBUG chrome testCases.LoginDataDrivenTest - My Account text is present
-2025-07-12 21:46:48.674 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
-2025-07-12 21:46:49.122 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Logout link on Account page
-2025-07-12 21:46:49.503 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Logout link on Account page
-2025-07-12 21:46:49.503 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
-2025-07-12 21:46:49.507 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
-2025-07-12 21:46:49.565 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
-2025-07-12 21:46:50.197 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
-2025-07-12 21:46:50.265 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
-2025-07-12 21:46:50.310 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
-2025-07-12 21:46:50.356 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
-2025-07-12 21:47:00.370 [main] DEBUG chrome testCases.LoginDataDrivenTest - Exception while fetching My Account text
-2025-07-12 21:47:00.370 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
-2025-07-12 21:47:00.370 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
-2025-07-12 21:47:00.370 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
-2025-07-12 21:47:00.448 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
-2025-07-12 21:47:00.764 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
-2025-07-12 21:47:00.831 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
-2025-07-12 21:47:00.860 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
-2025-07-12 21:47:00.912 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
-2025-07-12 21:47:01.576 [main] DEBUG chrome testCases.LoginDataDrivenTest - My Account text is present
-2025-07-12 21:47:01.576 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
-2025-07-12 21:47:02.088 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Logout link on Account page
-2025-07-12 21:47:02.395 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Logout link on Account page
-2025-07-12 21:47:02.395 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
-2025-07-12 21:47:02.395 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
-2025-07-12 21:47:02.454 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
-2025-07-12 21:47:02.772 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
-2025-07-12 21:47:02.828 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
-2025-07-12 21:47:02.871 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
-2025-07-12 21:47:02.923 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
-2025-07-12 21:47:13.739 [main] DEBUG chrome testCases.LoginDataDrivenTest - Exception while fetching My Account text
-2025-07-12 21:47:13.739 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
-2025-07-12 21:47:13.743 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
-2025-07-12 21:47:13.743 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
-2025-07-12 21:47:13.807 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
-2025-07-12 21:47:14.211 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
-2025-07-12 21:47:14.282 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
-2025-07-12 21:47:14.314 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
-2025-07-12 21:47:14.364 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
-2025-07-12 21:47:24.403 [main] DEBUG chrome testCases.LoginDataDrivenTest - Exception while fetching My Account text
-2025-07-12 21:47:24.403 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
-2025-07-12 21:47:24.403 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+2025-07-13 11:31:56.038 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test started
+2025-07-13 11:31:56.130 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on My Account link
+2025-07-13 11:31:56.729 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on Register link
+2025-07-13 11:31:56.834 [main] DEBUG chrome testCases.AccountRegistrationTest - First name entered: jzBYophU
+2025-07-13 11:31:56.906 [main] DEBUG chrome testCases.AccountRegistrationTest - Last name entered:aVDEFYRys
+2025-07-13 11:31:56.969 [main] DEBUG chrome testCases.AccountRegistrationTest - Email entered: Lg@gmail.com
+2025-07-13 11:31:57.036 [main] DEBUG chrome testCases.AccountRegistrationTest - Telephone number entered: 4193926643
+2025-07-13 11:31:57.094 [main] DEBUG chrome testCases.AccountRegistrationTest - Password entered: dcKWgsqD
+2025-07-13 11:31:57.143 [main] DEBUG chrome testCases.AccountRegistrationTest - Confirm Password entered: dcKWgsqD 
+2025-07-13 11:31:57.204 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on NewsLetter radio button -Yes 
+2025-07-13 11:31:57.260 [main] DEBUG chrome testCases.AccountRegistrationTest - Checked on Privacy & Policy check box 
+2025-07-13 11:31:58.171 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on Register submit button
+2025-07-13 11:31:58.206 [main] DEBUG chrome testCases.AccountRegistrationTest - Post register success message retrieved
+2025-07-13 11:31:58.208 [main] INFO  chrome testCases.AccountRegistrationTest - Account registered successfully
+2025-07-13 11:31:58.208 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test completed
+2025-07-13 11:32:00.680 [main] INFO  chrome testCases.LoginAccountTest - Login test started
+2025-07-13 11:32:00.759 [main] DEBUG chrome testCases.LoginAccountTest - Clicked on My Account link
+2025-07-13 11:32:01.111 [main] DEBUG chrome testCases.LoginAccountTest - Clicked on Login link
+2025-07-13 11:32:01.200 [main] DEBUG chrome testCases.LoginAccountTest - Entered email
+2025-07-13 11:32:01.255 [main] DEBUG chrome testCases.LoginAccountTest - Entered password
+2025-07-13 11:32:01.308 [main] DEBUG chrome testCases.LoginAccountTest - Clicked on login button
+2025-07-13 11:32:02.153 [main] DEBUG chrome testCases.LoginAccountTest - My Account text is present
+2025-07-13 11:32:02.153 [main] INFO  chrome testCases.LoginAccountTest - Login test completed
+2025-07-13 11:32:05.605 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-13 11:32:05.608 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-07-13 11:32:05.610 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-13 11:32:06.016 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-13 11:32:06.017 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-07-13 11:32:06.018 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-13 11:32:06.039 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-13 11:32:06.039 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-07-13 11:32:06.040 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-13 11:32:06.068 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-13 11:32:06.068 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-07-13 11:32:06.069 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-13 11:32:06.086 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-13 11:32:06.087 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-07-13 11:32:06.087 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-13 11:32:06.103 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-13 11:32:06.103 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-07-13 11:32:06.104 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-13 11:32:06.120 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-13 11:32:06.120 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-07-13 11:32:06.121 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-13 11:32:06.136 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-13 11:32:06.137 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-07-13 11:32:06.138 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-13 11:32:06.155 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-13 11:32:06.156 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-07-13 11:32:06.156 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-13 11:32:06.173 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-13 11:32:06.174 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-07-13 11:32:06.175 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-13 11:32:06.189 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-13 11:32:06.191 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-07-13 11:32:06.192 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-13 11:32:06.208 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-13 11:32:06.209 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-07-13 11:32:06.210 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-13 11:32:06.225 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-13 11:32:06.226 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-07-13 11:32:06.227 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-13 11:32:06.239 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-13 11:32:06.240 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-07-13 11:32:06.240 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-13 11:32:06.254 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-13 11:32:06.255 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-07-13 11:32:06.256 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-13 11:32:06.269 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-13 11:32:06.270 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-07-13 11:32:06.271 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-13 11:32:06.282 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-07-13 11:32:06.282 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-07-13 11:32:06.282 [main] DEBUG chrome org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-07-13 11:32:06.297 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
+2025-07-13 11:32:06.354 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
+2025-07-13 11:32:06.750 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
+2025-07-13 11:32:06.833 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
+2025-07-13 11:32:06.886 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
+2025-07-13 11:32:06.940 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
+2025-07-13 11:32:07.662 [main] DEBUG chrome testCases.LoginDataDrivenTest - My Account text is present
+2025-07-13 11:32:07.662 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
+2025-07-13 11:32:08.127 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Logout link on Account page
+2025-07-13 11:32:08.434 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Logout link on Account page
+2025-07-13 11:32:08.435 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
+2025-07-13 11:32:08.437 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+2025-07-13 11:32:08.489 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
+2025-07-13 11:32:08.818 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
+2025-07-13 11:32:08.881 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
+2025-07-13 11:32:08.924 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
+2025-07-13 11:32:08.972 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
+2025-07-13 11:32:18.998 [main] DEBUG chrome testCases.LoginDataDrivenTest - Exception while fetching My Account text
+2025-07-13 11:32:18.998 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+2025-07-13 11:32:18.998 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+2025-07-13 11:32:19.015 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
+2025-07-13 11:32:19.107 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
+2025-07-13 11:32:19.566 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
+2025-07-13 11:32:19.638 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
+2025-07-13 11:32:19.682 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
+2025-07-13 11:32:20.497 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
+2025-07-13 11:32:20.514 [main] DEBUG chrome testCases.LoginDataDrivenTest - My Account text is present
+2025-07-13 11:32:20.514 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
+2025-07-13 11:32:21.010 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Logout link on Account page
+2025-07-13 11:32:21.466 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Logout link on Account page
+2025-07-13 11:32:21.466 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
+2025-07-13 11:32:21.471 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+2025-07-13 11:32:21.541 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
+2025-07-13 11:32:21.874 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
+2025-07-13 11:32:21.923 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
+2025-07-13 11:32:21.974 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
+2025-07-13 11:32:22.023 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
+2025-07-13 11:32:32.094 [main] DEBUG chrome testCases.LoginDataDrivenTest - Exception while fetching My Account text
+2025-07-13 11:32:32.094 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+2025-07-13 11:32:32.094 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+2025-07-13 11:32:32.102 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+2025-07-13 11:32:32.191 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
+2025-07-13 11:32:32.608 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
+2025-07-13 11:32:32.676 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
+2025-07-13 11:32:32.720 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
+2025-07-13 11:32:32.787 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
+2025-07-13 11:32:43.428 [main] DEBUG chrome testCases.LoginDataDrivenTest - Exception while fetching My Account text
+2025-07-13 11:32:43.429 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+2025-07-13 11:32:43.429 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
