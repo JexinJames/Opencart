@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="DockerExecution_suite">
+
+
+	
+ 
+ 	<groups>
+ 		<run>
+ 		
+ 			<include name="Sanity"/>
+ 		</run>
+ 	
+ 	</groups>
+ 	
+ 	
+ 	<listeners>
+	
+		<listener class-name="utilities.ExtentReportManager"/>
+	</listeners>
+
+
+  <test name="Test">
+  
+  	<parameter name = "browser" value="firefox"/>
+  	<parameter name="os" value="linux"/>
+    <classes>
+         <class name="testCases.AccountRegistrationTest"/>
+         <class name="testCases.LoginAccountTest"/>
+     	 <class name="testCases.LoginDataDrivenTest"/>
+     	
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

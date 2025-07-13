@@ -1,0 +1,360 @@
+11:08:04.350 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test started
+11:08:04.449 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on My Account link
+11:08:05.133 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on Register link
+11:08:05.228 [main] DEBUG chrome testCases.AccountRegistrationTest - First name entered: ik
+11:08:05.293 [main] DEBUG chrome testCases.AccountRegistrationTest - Last name entered:yhKcNoCBPo
+11:08:05.350 [main] DEBUG chrome testCases.AccountRegistrationTest - Email entered: kisa@gmail.com
+11:08:05.408 [main] DEBUG chrome testCases.AccountRegistrationTest - Telephone number entered: 3615244314
+11:08:05.465 [main] DEBUG chrome testCases.AccountRegistrationTest - Password entered: rT0I02Wm
+11:08:05.521 [main] DEBUG chrome testCases.AccountRegistrationTest - Confirm Password entered: rT0I02Wm 
+11:08:05.581 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on NewsLetter radio button -Yes 
+11:08:05.642 [main] DEBUG chrome testCases.AccountRegistrationTest - Checked on Privacy & Policy check box 
+11:08:06.892 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on Register submit button
+11:08:06.927 [main] DEBUG chrome testCases.AccountRegistrationTest - Post register success message retrieved
+11:08:06.929 [main] INFO  chrome testCases.AccountRegistrationTest - Account registered successfully
+11:08:06.930 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test completed
+11:09:46.127 [TestNG-tests-1] INFO  chrome testCases.AccountRegistrationTest - Account registration test started
+11:09:46.229 [TestNG-tests-1] DEBUG chrome testCases.AccountRegistrationTest - Clicked on My Account link
+11:09:46.946 [TestNG-tests-1] DEBUG chrome testCases.AccountRegistrationTest - Clicked on Register link
+11:09:47.109 [TestNG-tests-1] DEBUG chrome testCases.AccountRegistrationTest - First name entered: yHjz
+11:09:47.209 [TestNG-tests-1] DEBUG chrome testCases.AccountRegistrationTest - Last name entered:KhcdOvC
+11:09:47.325 [TestNG-tests-1] DEBUG chrome testCases.AccountRegistrationTest - Email entered: beTBmXj@gmail.com
+11:09:47.389 [TestNG-tests-1] DEBUG chrome testCases.AccountRegistrationTest - Telephone number entered: 0436124179
+11:09:47.443 [TestNG-tests-1] DEBUG chrome testCases.AccountRegistrationTest - Password entered: PJ5Gvo
+11:09:47.530 [TestNG-tests-1] DEBUG chrome testCases.AccountRegistrationTest - Confirm Password entered: PJ5Gvo 
+11:09:47.641 [TestNG-tests-1] DEBUG chrome testCases.AccountRegistrationTest - Clicked on NewsLetter radio button -Yes 
+11:09:47.793 [TestNG-tests-1] DEBUG chrome testCases.AccountRegistrationTest - Checked on Privacy & Policy check box 
+11:09:48.268 [TestNG-tests-2] INFO  edge testCases.AccountRegistrationTest - Account registration test started
+11:09:48.360 [TestNG-tests-2] DEBUG edge testCases.AccountRegistrationTest - Clicked on My Account link
+11:09:48.404 [TestNG-tests-3] INFO  firefox testCases.AccountRegistrationTest - Account registration test started
+11:09:48.728 [TestNG-tests-3] DEBUG firefox testCases.AccountRegistrationTest - Clicked on My Account link
+11:09:49.076 [TestNG-tests-1] DEBUG chrome testCases.AccountRegistrationTest - Clicked on Register submit button
+11:09:49.111 [TestNG-tests-1] DEBUG chrome testCases.AccountRegistrationTest - Post register success message retrieved
+11:09:49.113 [TestNG-tests-1] INFO  chrome testCases.AccountRegistrationTest - Account registered successfully
+11:09:49.113 [TestNG-tests-1] INFO  chrome testCases.AccountRegistrationTest - Account registration test completed
+11:09:49.262 [TestNG-tests-2] DEBUG edge testCases.AccountRegistrationTest - Clicked on Register link
+11:09:49.421 [TestNG-tests-2] DEBUG edge testCases.AccountRegistrationTest - First name entered: EXuPK
+11:09:49.486 [TestNG-tests-2] DEBUG edge testCases.AccountRegistrationTest - Last name entered:pLhsX
+11:09:49.557 [TestNG-tests-2] DEBUG edge testCases.AccountRegistrationTest - Email entered: fdyi@gmail.com
+11:09:49.589 [TestNG-tests-3] DEBUG firefox testCases.AccountRegistrationTest - Clicked on Register link
+11:09:49.655 [TestNG-tests-2] DEBUG edge testCases.AccountRegistrationTest - Telephone number entered: 4032079432
+11:09:49.669 [TestNG-tests-3] DEBUG firefox testCases.AccountRegistrationTest - First name entered: cSHk
+11:09:49.689 [TestNG-tests-3] DEBUG firefox testCases.AccountRegistrationTest - Last name entered:iYewymH
+11:09:49.721 [TestNG-tests-3] DEBUG firefox testCases.AccountRegistrationTest - Email entered: tHLqH@gmail.com
+11:09:49.746 [TestNG-tests-3] DEBUG firefox testCases.AccountRegistrationTest - Telephone number entered: 1957263649
+11:09:49.757 [TestNG-tests-2] DEBUG edge testCases.AccountRegistrationTest - Password entered: p8uT3Fzo
+11:09:49.769 [TestNG-tests-3] DEBUG firefox testCases.AccountRegistrationTest - Password entered: 3lhVl5WfS
+11:09:49.805 [TestNG-tests-3] DEBUG firefox testCases.AccountRegistrationTest - Confirm Password entered: 3lhVl5WfS 
+11:09:49.857 [TestNG-tests-2] DEBUG edge testCases.AccountRegistrationTest - Confirm Password entered: p8uT3Fzo 
+11:09:49.921 [TestNG-tests-2] DEBUG edge testCases.AccountRegistrationTest - Clicked on NewsLetter radio button -Yes 
+11:09:49.993 [TestNG-tests-2] DEBUG edge testCases.AccountRegistrationTest - Checked on Privacy & Policy check box 
+11:09:50.048 [TestNG-tests-3] DEBUG firefox testCases.AccountRegistrationTest - Clicked on NewsLetter radio button -Yes 
+11:09:50.262 [TestNG-tests-3] DEBUG firefox testCases.AccountRegistrationTest - Checked on Privacy & Policy check box 
+11:09:51.332 [TestNG-tests-2] DEBUG edge testCases.AccountRegistrationTest - Clicked on Register submit button
+11:09:51.360 [TestNG-tests-2] DEBUG edge testCases.AccountRegistrationTest - Post register success message retrieved
+11:09:51.360 [TestNG-tests-2] INFO  edge testCases.AccountRegistrationTest - Account registered successfully
+11:09:51.360 [TestNG-tests-2] INFO  edge testCases.AccountRegistrationTest - Account registration test completed
+11:09:51.557 [TestNG-tests-3] DEBUG firefox testCases.AccountRegistrationTest - Clicked on Register submit button
+11:09:51.597 [TestNG-tests-3] DEBUG firefox testCases.AccountRegistrationTest - Post register success message retrieved
+11:09:51.597 [TestNG-tests-3] INFO  firefox testCases.AccountRegistrationTest - Account registered successfully
+11:09:51.598 [TestNG-tests-3] INFO  firefox testCases.AccountRegistrationTest - Account registration test completed
+11:11:39.741 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test started
+11:11:39.820 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on My Account link
+11:11:40.590 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on Register link
+11:11:40.676 [main] DEBUG chrome testCases.AccountRegistrationTest - First name entered: tIxARkgaar
+11:11:40.737 [main] DEBUG chrome testCases.AccountRegistrationTest - Last name entered:lHzzV
+11:11:40.789 [main] DEBUG chrome testCases.AccountRegistrationTest - Email entered: pnwG@gmail.com
+11:11:40.842 [main] DEBUG chrome testCases.AccountRegistrationTest - Telephone number entered: 3487117521
+11:11:40.893 [main] DEBUG chrome testCases.AccountRegistrationTest - Password entered: Ie0EXb
+11:11:40.940 [main] DEBUG chrome testCases.AccountRegistrationTest - Confirm Password entered: Ie0EXb 
+11:11:40.991 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on NewsLetter radio button -Yes 
+11:11:41.039 [main] DEBUG chrome testCases.AccountRegistrationTest - Checked on Privacy & Policy check box 
+11:11:41.096 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on Register submit button
+11:11:42.178 [main] DEBUG chrome testCases.AccountRegistrationTest - Post register success message retrieved
+11:11:42.180 [main] INFO  chrome testCases.AccountRegistrationTest - Account registered successfully
+11:11:42.180 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test completed
+11:12:34.660 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test started
+11:12:34.747 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on My Account link
+11:12:35.367 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on Register link
+11:12:35.468 [main] DEBUG chrome testCases.AccountRegistrationTest - First name entered: kwIrd
+11:12:35.528 [main] DEBUG chrome testCases.AccountRegistrationTest - Last name entered:lWSNXceF
+11:12:35.579 [main] DEBUG chrome testCases.AccountRegistrationTest - Email entered: gLIq@gmail.com
+11:12:35.628 [main] DEBUG chrome testCases.AccountRegistrationTest - Telephone number entered: 6830871403
+11:12:35.675 [main] DEBUG chrome testCases.AccountRegistrationTest - Password entered: viMGq
+11:12:35.719 [main] DEBUG chrome testCases.AccountRegistrationTest - Confirm Password entered: viMGq 
+11:12:35.772 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on NewsLetter radio button -Yes 
+11:12:35.819 [main] DEBUG chrome testCases.AccountRegistrationTest - Checked on Privacy & Policy check box 
+11:12:36.856 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on Register submit button
+11:12:36.882 [main] DEBUG chrome testCases.AccountRegistrationTest - Post register success message retrieved
+11:12:36.883 [main] INFO  chrome testCases.AccountRegistrationTest - Account registered successfully
+11:12:36.884 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test completed
+11:13:10.042 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test started
+11:13:10.122 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on My Account link
+11:13:10.745 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on Register link
+11:13:10.822 [main] DEBUG chrome testCases.AccountRegistrationTest - First name entered: uEHL
+11:13:10.881 [main] DEBUG chrome testCases.AccountRegistrationTest - Last name entered:JnMoH
+11:13:10.937 [main] DEBUG chrome testCases.AccountRegistrationTest - Email entered: SruRLkAx@gmail.com
+11:13:10.985 [main] DEBUG chrome testCases.AccountRegistrationTest - Telephone number entered: 4826349277
+11:13:11.035 [main] DEBUG chrome testCases.AccountRegistrationTest - Password entered: inK177
+11:13:11.081 [main] DEBUG chrome testCases.AccountRegistrationTest - Confirm Password entered: inK177 
+11:13:11.130 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on NewsLetter radio button -Yes 
+11:13:11.179 [main] DEBUG chrome testCases.AccountRegistrationTest - Checked on Privacy & Policy check box 
+11:13:12.229 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on Register submit button
+11:13:12.264 [main] DEBUG chrome testCases.AccountRegistrationTest - Post register success message retrieved
+11:13:12.266 [main] INFO  chrome testCases.AccountRegistrationTest - Account registered successfully
+11:13:12.267 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test completed
+11:18:43.590 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test started
+11:18:43.672 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on My Account link
+11:18:44.265 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on Register link
+11:18:44.377 [main] DEBUG chrome testCases.AccountRegistrationTest - First name entered: gWATowWCqR
+11:18:44.440 [main] DEBUG chrome testCases.AccountRegistrationTest - Last name entered:aZAdqem
+11:18:44.502 [main] DEBUG chrome testCases.AccountRegistrationTest - Email entered: yiVgLJ@gmail.com
+11:18:44.554 [main] DEBUG chrome testCases.AccountRegistrationTest - Telephone number entered: 6352929778
+11:18:44.601 [main] DEBUG chrome testCases.AccountRegistrationTest - Password entered: qZlF9
+11:18:44.644 [main] DEBUG chrome testCases.AccountRegistrationTest - Confirm Password entered: qZlF9 
+11:18:44.696 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on NewsLetter radio button -Yes 
+11:18:44.742 [main] DEBUG chrome testCases.AccountRegistrationTest - Checked on Privacy & Policy check box 
+11:18:45.745 [main] DEBUG chrome testCases.AccountRegistrationTest - Clicked on Register submit button
+11:18:45.772 [main] DEBUG chrome testCases.AccountRegistrationTest - Post register success message retrieved
+11:18:45.774 [main] INFO  chrome testCases.AccountRegistrationTest - Account registered successfully
+11:18:45.774 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test completed
+12:28:12.283 [main] INFO  chrome testCases.LoginAccountTest - Login test started
+12:28:12.417 [main] DEBUG chrome testCases.LoginAccountTest - Clicked on My Account link
+12:28:13.019 [main] DEBUG chrome testCases.LoginAccountTest - Clicked on Login link
+12:28:13.117 [main] DEBUG chrome testCases.LoginAccountTest - Entered email
+12:28:13.180 [main] DEBUG chrome testCases.LoginAccountTest - Entered password
+12:28:13.240 [main] DEBUG chrome testCases.LoginAccountTest - Clicked on login button
+12:28:14.209 [main] DEBUG chrome testCases.LoginAccountTest - My Account text is present
+11:18:06.087 [main] INFO  chrome testCases.LoginAccountTest - Login test started
+11:18:06.221 [main] DEBUG chrome testCases.LoginAccountTest - Clicked on My Account link
+11:18:07.356 [main] DEBUG chrome testCases.LoginAccountTest - Clicked on Login link
+11:18:07.528 [main] DEBUG chrome testCases.LoginAccountTest - Entered email
+11:18:07.655 [main] DEBUG chrome testCases.LoginAccountTest - Entered password
+11:18:09.396 [main] DEBUG chrome testCases.LoginAccountTest - Clicked on login button
+11:18:09.458 [main] DEBUG chrome testCases.LoginAccountTest - My Account text is present
+11:18:09.464 [main] INFO  chrome testCases.LoginAccountTest - Login test completed
+11:22:51.971 [main] INFO  chrome testCases.LoginAccountTest - Login test started
+11:22:52.075 [main] DEBUG chrome testCases.LoginAccountTest - Clicked on My Account link
+11:22:53.230 [main] DEBUG chrome testCases.LoginAccountTest - Clicked on Login link
+11:22:53.352 [main] DEBUG chrome testCases.LoginAccountTest - Entered email
+11:22:53.436 [main] DEBUG chrome testCases.LoginAccountTest - Entered password
+11:22:53.599 [main] DEBUG chrome testCases.LoginAccountTest - Clicked on login button
+11:23:03.716 [main] ERROR chrome testCases.LoginAccountTest - no such element: Unable to locate element: {"method":"xpath","selector":"//*/div[@id="content"]/h2[1]"}
+  (Session info: chrome=137.0.7151.122)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8cb7daee569a516cbcc8573c16c619bc, findElement {value=//*/div[@id="content"]/h2[1], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.122, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\jexin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55676}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55676/devtoo..., se:cdpVersion: 137.0.7151.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8cb7daee569a516cbcc8573c16c619bc
+11:23:03.718 [main] DEBUG chrome testCases.LoginAccountTest - Exception while fetching My Account text
+11:49:17.294 [main] INFO  chrome testCases.LoginDataDrivenTest - Valid and Invalid login test started
+11:49:17.425 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
+11:49:18.618 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
+11:49:18.848 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
+11:49:18.963 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
+11:49:19.144 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
+11:49:25.794 [main] ERROR chrome testCases.LoginDataDrivenTest - Error communicating with the remote browser. It may have died.
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [35f9919c85991103944d7a6601b34a13, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.122, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\jexin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57734}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57734/devtoo..., se:cdpVersion: 137.0.7151.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 35f9919c85991103944d7a6601b34a13
+11:49:25.796 [main] DEBUG chrome testCases.LoginDataDrivenTest - Exception while fetching My Account text
+12:09:36.050 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+12:09:36.181 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
+12:09:36.893 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
+12:09:37.117 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
+12:09:37.215 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
+12:09:37.339 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
+12:09:48.427 [main] ERROR chrome testCases.LoginDataDrivenTest - no such element: Unable to locate element: {"method":"xpath","selector":"//*/div[@id="content"]/h2[1]"}
+  (Session info: chrome=137.0.7151.122)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e706e1de67c8f08d2c24ee6b752e1362, findElement {value=//*/div[@id="content"]/h2[1], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.122, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\jexin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59652}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59652/devtoo..., se:cdpVersion: 137.0.7151.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e706e1de67c8f08d2c24ee6b752e1362
+12:09:48.430 [main] DEBUG chrome testCases.LoginDataDrivenTest - Exception while fetching My Account text
+12:09:48.430 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+12:09:48.438 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+12:09:48.458 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
+12:09:48.651 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
+12:09:49.351 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
+12:09:49.497 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
+12:09:49.646 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
+12:09:49.807 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
+12:09:50.981 [main] DEBUG chrome testCases.LoginDataDrivenTest - My Account text is present
+12:09:50.981 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
+12:09:51.929 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Logout link on Account page
+12:09:52.690 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Logout link on Account page
+12:09:52.691 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
+12:13:44.055 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+12:13:44.188 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
+12:13:44.833 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
+12:13:45.013 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
+12:13:45.115 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
+12:13:45.245 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
+12:13:56.343 [main] ERROR chrome testCases.LoginDataDrivenTest - no such element: Unable to locate element: {"method":"xpath","selector":"//*/div[@id="content"]/h2[1]"}
+  (Session info: chrome=137.0.7151.122)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f6b06e02de9d68ebbf7cb3d236608f63, findElement {value=//*/div[@id="content"]/h2[1], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.122, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\jexin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60067}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60067/devtoo..., se:cdpVersion: 137.0.7151.122, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f6b06e02de9d68ebbf7cb3d236608f63
+12:13:56.346 [main] DEBUG chrome testCases.LoginDataDrivenTest - Exception while fetching My Account text
+12:13:56.346 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+12:13:56.353 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+12:13:56.368 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
+12:13:56.575 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
+12:13:57.305 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
+12:13:57.501 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
+12:13:57.645 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
+12:13:57.838 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
+12:13:59.127 [main] DEBUG chrome testCases.LoginDataDrivenTest - My Account text is present
+12:13:59.127 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
+12:14:00.025 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Logout link on Account page
+12:14:00.739 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Logout link on Account page
+12:14:00.741 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
+12:15:47.043 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+12:15:47.150 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
+12:15:47.812 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
+12:15:47.921 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
+12:15:48.021 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
+12:15:48.179 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
+12:15:58.245 [main] DEBUG chrome testCases.LoginDataDrivenTest - Exception while fetching My Account text
+12:15:58.246 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+12:15:58.253 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+12:15:58.271 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
+12:15:58.460 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on My Account link
+12:15:59.188 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Login link
+12:15:59.371 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered email
+12:15:59.511 [main] DEBUG chrome testCases.LoginDataDrivenTest - Entered password
+12:15:59.663 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on login button
+12:16:00.856 [main] DEBUG chrome testCases.LoginDataDrivenTest - My Account text is present
+12:16:00.859 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
+12:16:01.771 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Logout link on Account page
+12:16:02.512 [main] DEBUG chrome testCases.LoginDataDrivenTest - Clicked on Logout link on Account page
+12:16:02.512 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
+12:17:05.654 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+12:17:17.971 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+12:17:17.979 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+12:17:17.993 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
+12:17:20.634 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
+12:17:22.302 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
+12:18:54.477 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
+12:19:05.743 [main] ERROR chrome testCases.LoginDataDrivenTest - Login failed with valid credential
+12:19:05.772 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+12:19:08.360 [main] ERROR chrome testCases.LoginDataDrivenTest - Able to login with invalid credential
+13:09:59.411 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
+13:10:01.485 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
+13:10:03.782 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
+13:10:03.797 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+13:10:17.166 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+13:10:17.166 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+13:10:17.188 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
+13:10:19.392 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
+13:10:20.761 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
+13:10:20.771 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+13:10:33.230 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+13:10:33.230 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+13:10:33.247 [main] INFO  chrome testCases.LoginDataDrivenTest - null login test started
+13:16:10.253 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
+13:16:12.424 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
+13:16:13.675 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
+13:16:13.687 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+13:16:25.906 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+13:16:25.906 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+13:16:25.930 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
+13:16:28.221 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
+13:16:29.810 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
+13:16:29.825 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+13:16:40.803 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+13:16:40.804 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+13:16:40.813 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+13:16:52.052 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+13:16:52.052 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+13:23:45.960 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
+13:23:48.230 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
+13:23:49.531 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
+13:23:49.544 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+13:24:00.599 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+13:24:00.610 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+13:24:00.621 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
+13:24:02.659 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
+13:24:04.065 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
+13:24:04.071 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+13:24:15.201 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+13:24:15.201 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+13:24:15.210 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+13:24:26.437 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+13:24:26.437 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+20:46:46.826 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test started
+20:46:50.586 [main] INFO  chrome testCases.AccountRegistrationTest - Account registered successfully
+20:46:50.586 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test completed
+20:46:54.759 [main] INFO  chrome testCases.LoginAccountTest - Login test started
+20:46:56.949 [main] INFO  chrome testCases.LoginAccountTest - Login test started
+20:47:03.101 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
+20:47:05.281 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
+20:47:06.803 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
+20:47:06.816 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+20:47:19.224 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+20:47:19.224 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+20:47:19.234 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
+20:47:21.621 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
+20:47:23.071 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
+20:47:23.081 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+20:47:35.629 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+20:47:35.629 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+20:47:35.638 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+20:47:48.095 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+20:47:48.095 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+20:50:28.317 [main] INFO  chrome testCases.LoginAccountTest - Login test started
+20:50:30.611 [main] INFO  chrome testCases.LoginAccountTest - Login test started
+20:52:15.625 [main] INFO  chrome testCases.LoginAccountTest - Login test started
+20:52:17.885 [main] INFO  chrome testCases.LoginAccountTest - Login test started
+01:46:16.505 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test started
+01:46:20.772 [main] INFO  chrome testCases.AccountRegistrationTest - Account registered successfully
+01:46:20.773 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test completed
+01:46:23.567 [main] INFO  chrome testCases.LoginAccountTest - Login test started
+01:46:26.135 [main] INFO  chrome testCases.LoginAccountTest - Login test started
+01:46:29.824 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
+01:46:32.355 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
+01:46:33.735 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
+01:46:33.744 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+01:46:44.866 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+01:46:44.866 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+01:46:44.875 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test started
+01:46:47.316 [main] INFO  chrome testCases.LoginDataDrivenTest - Login successful with valid credential
+01:46:48.749 [main] INFO  chrome testCases.LoginDataDrivenTest - valid login test completed
+01:46:48.756 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+01:47:01.240 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+01:47:01.247 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+01:47:01.257 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test started
+01:47:13.550 [main] INFO  chrome testCases.LoginDataDrivenTest - Unable to login with invalid credential
+01:47:13.550 [main] INFO  chrome testCases.LoginDataDrivenTest - invalid login test completed
+02:00:40.418 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test started
+02:00:44.142 [main] INFO  chrome testCases.AccountRegistrationTest - Account registered successfully
+02:00:44.143 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test completed
+02:00:47.124 [main] INFO  chrome testCases.LoginAccountTest - Login test started
+02:06:44.976 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test started
+02:06:48.242 [main] INFO  chrome testCases.AccountRegistrationTest - Account registered successfully
+02:06:48.243 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test completed
+02:06:51.308 [main] INFO  chrome testCases.LoginAccountTest - Login test started
+02:07:57.629 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test started
+02:08:01.187 [main] INFO  chrome testCases.AccountRegistrationTest - Account registered successfully
+02:08:01.190 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test completed
+02:08:03.800 [main] INFO  chrome testCases.LoginAccountTest - Login test started
+02:10:14.379 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test started
+02:10:18.139 [main] INFO  chrome testCases.AccountRegistrationTest - Account registered successfully
+02:10:18.140 [main] INFO  chrome testCases.AccountRegistrationTest - Account registration test completed
+02:10:21.302 [main] INFO  chrome testCases.LoginAccountTest - Login test started
+02:16:07.600 [main] INFO  chrome testCases.LoginAccountTest - Login test started
+02:29:35.722 [main] INFO  chrome testCases.LoginAccountTest - Login test started
+02:33:26.664 [main] INFO  chrome testCases.LoginAccountTest - Login test started
+02:34:53.925 [main] INFO  chrome testCases.LoginAccountTest - Login test started
